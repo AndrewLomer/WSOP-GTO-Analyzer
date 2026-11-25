@@ -1,0 +1,265 @@
+hand,player,hole_cards,position
+1,Han Feng,As Ac,
+2,Michael Gagliano,Kh Qs,early position
+2,Lucas Jumalon,4h 2s,big blind
+3,Han Feng,Kd Qs,
+3,Lucas Jumalon,Ad Qh,small blind
+4,Han Feng,Kc Qd,
+5,Michael Gagliano,Ac 2s,small blind
+5,Mario Boos,Ad Th,big blind
+6,Lucas Jumalon,8h 8d,
+6,Mario Boos,Ks 7d,small blind
+7,Lucas Jumalon,Td 9s,middle position
+8,Evagoras Evagorou,Kh Th,
+9,Mario Boos,Ac Jc,hijack
+10,Rami Hammoud,Js 5c,small blind
+10,Evagoras Evagorou,9d 7d,big blind
+11,Lauri Saaskilahti,Ah 8h,under the gun
+11,Lucas Jumalon,Qc Td,big blind
+12,Jamie Shaevel,7s 7c,early position
+12,Lucas Jumalon,Js Jd,small blind
+13,Jamie Shaevel,Ah 8h,
+13,Lucas Jumalon,9d 6d,button
+13,Michael Gagliano,As Ks,big blind
+14,Lucas Jumalon,Js 9d,
+14,Mario Boos,5s 5c,big blind
+15,Rami Hammoud,Ah 8s,middle position
+15,Lauri Saaskilahti,Kh Kc,cutoff
+16,Lucas Jumalon,Ac 9s,
+17,Lucas Jumalon,2s 2d,
+17,Lauri Saaskilahti,Ah Ad,middle position
+18,Jamie Shaevel,Qc 9h,button
+18,Rami Hammoud,6d 4c,big blind
+19,Mario Boos,Ad 9d,
+20,Greg Mueller,Ks Kd,
+20,Rami Hammoud,Ah Qh,button
+21,Jamie Shaevel,Ad 9c,
+22,Lucas Jumalon,6h 4d,button
+22,Michael Gagliano,Qs,big blind
+23,Lucas Jumalon,7c 5s,cutoff
+23,Mario Boos,Ad 8h,big blind
+24,Han Feng,Qd 9d,early position
+24,Greg Mueller,Ad Kh,big blind
+25,Lauri Saaskilahti,Kd Qc,hijack
+25,Jamie Shaevel,Ad 7d,big blind
+26,Greg Mueller,Ad 8h,button
+26,Han Feng,Qc 7h,big blind
+27,Han Feng,Kh 9c,small blind
+28,Lucas Jumalon,,under the gun
+28,Evagoras Evagorou,,big blind
+29,Jamie Shaevel,Ks Qd,cutoff
+29,Rami Hammoud,7s 7c,button
+29,Lucas Jumalon,Ad 2s,button
+30,Han Feng,Ks Jh,middle position
+31,Lucas Jumalon,Qh Tc,button
+32,Lauri Saaskilahti,7s 7h,
+33,Lucas Jumalon,Ah 5c,middle position
+33,Lauri Saaskilahti,Ac Ks,
+34,Lucas Jumalon,7h 6h,
+34,Greg Mueller,Ks Qd,small blind
+35,Evagoras Evagorou,6d 6c,early position
+35,Han Feng,Ac Kh,big blind
+36,Lauri Saaskilahti,Qh 5d,middle position
+36,Rami Hammoud,Jd Tc,big blind
+37,Lucas Jumalon,Kh 3h,under the gun
+38,Lucas Jumalon,,big blind
+39,Evagoras Evagorou,6s 6d,button
+40,Evagoras Evagorou,4c,big blind
+40,Jamie Shaevel,,early position
+41,Rami Hammoud,As 2s,hijack
+41,Michael Gagliano,Ac Kd,small blind
+42,Jamie Shaevel,Ac 8c,under the gun
+42,Lauri Saaskilahti,As Ts,cutoff
+43,Mario Boos,Ks 3d,button
+44,Michael Gagliano,Ac Td,hijack
+44,Jamie Shaevel,As 5s,small blind
+45,Rami Hammoud,4d,big blind
+45,Jamie Shaevel,,button
+46,Rami Hammoud,Kd 5s,small blind
+46,Lucas Jumalon,3d 2s,big blind
+47,Jamie Shaevel,Qc Jc,hijack
+48,Jamie Shaevel,Ts Th,
+49,Greg Mueller,Ac Kc,
+51,Lauri Saaskilahti,Qs 8s,
+51,Greg Mueller,Ks Jd,small blind
+52,Rami Hammoud,Ad Kh,under the gun
+53,Michael Gagliano,Kc Qd,
+54,Jamie Shaevel,As 9h,middle position
+54,Lucas Jumalon,5c 4d,big blind
+55,Mario Boos,Js Jc,early position
+55,Rami Hammoud,Kd 7d,button
+56,Greg Mueller,Ac Jc,
+56,Michael Gagliano,Qs Js,big blind
+57,Jamie Shaevel,Ac 5c,
+57,Mario Boos,Kh 6h,big blind
+58,Lucas Jumalon,Kd Td,
+58,Greg Mueller,6c 5c,big blind
+59,Mario Boos,9h 7s,button
+59,Jamie Shaevel,Qc 9h,big blind
+60,Jamie Shaevel,9s 5c,small blind
+61,Jamie Shaevel,Qc Js,button
+61,Rami Hammoud,,big blind
+62,Michael Gagliano,Kc Tc,early position
+62,Lucas Jumalon,Ks 3d,big blind
+63,Jamie Shaevel,Kh Kc,hijack
+63,Lauri Saaskilahti,8h,big blind
+64,Greg Mueller,Ad Td,early position
+64,Michael Gagliano,Js Jh,big blind
+65,Rami Hammoud,Ad 9d,
+65,Michael Gagliano,Ac Qd,small blind
+66,Lucas Jumalon,Ah Qh,early position
+67,Jamie Shaevel,As Ks,big blind
+68,Mario Boos,,cutoff
+68,Han Feng,,big blind
+69,Greg Mueller,Ac Qd,cutoff
+70,Lauri Saaskilahti,Ac 9c,under the gun
+70,Lucas Jumalon,Kc Td,big blind
+71,Lucas Jumalon,Jd Ts,small blind
+71,Lauri Saaskilahti,9s 3s,big blind
+72,Lucas Jumalon,Ad 7h,button
+73,Lucas Jumalon,Qh Jh,
+74,Lucas Jumalon,Jh 8h,middle position
+75,Lucas Jumalon,Kd Jd,
+76,Han Feng,,big blind
+77,Rami Hammoud,,big blind
+78,Lucas Jumalon,,big blind
+79,Lucas Jumalon,7s 2s,small blind
+79,Lauri Saaskilahti,Ah Ts,big blind
+80,Mario Boos,3s 3d,
+81,Han Feng,Kd 3d,
+82,Lucas Jumalon,Kc Qc,
+82,Lauri Saaskilahti,Kd Qd,
+83,Lucas Jumalon,6c Qd,
+83,Michael Gagliano,As Ks,
+84,Greg Mueller,Ad 9c,button
+85,Lucas Jumalon,5h 5c,
+85,Rami Hammoud,5s 4s,big blind
+86,Lucas Jumalon,,big blind
+87,Han Feng,9s 9d,cutoff
+87,Lucas Jumalon,Ah 3s,small blind
+88,Michael Gagliano,,big blind
+89,Michael Gagliano,9h 8c,small blind
+89,Mario Boos,,big blind
+90,Lucas Jumalon,Qc 6h,middle position
+91,Han Feng,Ah Js,under the gun
+91,Jamie Shaevel,Qd Qc,big blind
+92,Rami Hammoud,Kh Jd,under the gun
+93,Jamie Shaevel,Kd Qd,button
+94,Han Feng,Ks 9c,button
+96,Rami Hammoud,Kh Qd,cutoff
+97,Lauri Saaskilahti,Kc Qs,button
+98,Michael Gagliano,Ah Td,button
+99,Lucas Jumalon,Ac 8d,early position
+100,Han Feng,Kc Jc,button
+100,Rami Hammoud,Ac 2s,small blind
+100,Lucas Jumalon,Ad Th,big blind
+101,Michael Gagliano,Kh Qh,under the gun
+102,Jamie Shaevel,Ad Kc,early position
+103,Michael Gagliano,Qs 9h,small blind
+103,Greg Mueller,,big blind
+104,Lucas Jumalon,Kd 9s,
+105,Rami Hammoud,,under the gun
+105,Han Feng,,big blind
+106,Lucas Jumalon,7h 7c,
+106,Rami Hammoud,,big blind
+107,Lucas Jumalon,,big blind
+108,Han Feng,Qd Qc,middle position
+108,Lauri Saaskilahti,,big blind
+109,Lucas Jumalon,9s 9d,button
+109,Michael Gagliano,Qd 7d,big blind
+110,Rami Hammoud,Kd Jd,middle position
+110,Greg Mueller,Qd 6d,big blind
+111,Michael Gagliano,Jd Td,button
+111,Jamie Shaevel,Kh 7h,
+112,Han Feng,,big blind
+113,Greg Mueller,Ah 6c,cutoff
+114,Rami Hammoud,As 7c,small blind
+114,Lucas Jumalon,Qc Js,big blind
+115,Greg Mueller,Kh Jd,
+115,Lauri Saaskilahti,,big blind
+116,Han Feng,As Ts,
+117,Han Feng,Ah 8d,
+118,Lauri Saaskilahti,As Qs,middle position
+118,Jamie Shaevel,9d 7h,big blind
+119,Michael Gagliano,Js Ts,middle position
+120,Michael Gagliano,Ac Jc,hijack
+122,Rami Hammoud,Kc Ts,button
+123,Lucas Jumalon,As 6c,button
+124,Lucas Jumalon,As 6c,
+125,Lucas Jumalon,Ah 6h,
+125,Han Feng,Kh 9h,big blind
+126,Lauri Saaskilahti,3d 3c,early position
+126,Rami Hammoud,Kh 9h,big blind
+127,Lucas Jumalon,,big blind
+128,Lucas Jumalon,Qs 4c,small blind
+128,Lauri Saaskilahti,Ts 8d,big blind
+129,Lucas Jumalon,Jc 7s,button
+129,Lauri Saaskilahti,Td 9d,small blind
+130,Han Feng,Ac 9h,under the gun
+131,Han Feng,,big blind
+132,Rami Hammoud,Th,big blind
+132,Greg Mueller,,button
+133,Lucas Jumalon,,big blind
+134,Lucas Jumalon,6s 5c,small blind
+134,Lauri Saaskilahti,Ac Ks,big blind
+136,Lucas Jumalon,7c 3c,cutoff
+137,Rami Hammoud,,under the gun
+138,Greg Mueller,Qc Jd,button
+138,Han Feng,Th Td,small blind
+138,Lucas Jumalon,7s 7h,big blind
+139,Han Feng,Js Td,button
+139,Lucas Jumalon,Kd 5d,small blind
+140,Michael Gagliano,,big blind
+141,Greg Mueller,Jd Jc,big blind
+141,Han Feng,Ad Ac,under the gun
+141,Lauri Saaskilahti,,button
+142,Lauri Saaskilahti,Kd,under the gun
+142,Lucas Jumalon,,big blind
+143,Lucas Jumalon,9s 5s,small blind
+143,Lauri Saaskilahti,Qh 7s,big blind
+144,Lauri Saaskilahti,5d 3c,small blind
+144,Michael Gagliano,Jc 7d,big blind
+145,Lucas Jumalon,As 7d,under the gun
+146,Lauri Saaskilahti,Kd Tc,
+147,Lucas Jumalon,7s 6h,small blind
+147,Lauri Saaskilahti,9d 2c,big blind
+148,Lauri Saaskilahti,Ad Qc,small blind
+149,Lucas Jumalon,As 4s,
+149,Lauri Saaskilahti,Ad Kh,
+150,Greg Mueller,4h 4c,small blind
+150,Michael Gagliano,Ks Qs,button
+150,Lucas Jumalon,,big blind
+151,Greg Mueller,Kd 7c,button
+152,Greg Mueller,Tc 4h,big blind
+152,Lauri Saaskilahti,,small blind
+153,Lauri Saaskilahti,,button
+154,Lucas Jumalon,,button
+155,Lauri Saaskilahti,Js Tc,button
+155,Lucas Jumalon,Kh 4d,big blind
+156,Lucas Jumalon,Tc 5h,button
+156,Lauri Saaskilahti,7d 9s,big blind
+157,Lauri Saaskilahti,7d 4s,button
+157,Lucas Jumalon,Qh Jh,
+158,Lucas Jumalon,8s 8h,
+158,Lauri Saaskilahti,Qs 5d,
+159,Lauri Saaskilahti,Ah Jh,button
+160,Lauri Saaskilahti,Ah Jh,button
+160,Lucas Jumalon,Qh 6s,
+161,Lucas Jumalon,Ts 2h,button
+161,Lauri Saaskilahti,Tc 3d,big blind
+162,Lauri Saaskilahti,Qs 9d,button
+162,Lucas Jumalon,Ts 5d,big blind
+163,Lucas Jumalon,Qs 8s,button
+163,Lauri Saaskilahti,Th 4c,
+164,Lauri Saaskilahti,4d 3d,button
+164,Lucas Jumalon,8s 8d,
+165,Lucas Jumalon,Qs 6s,button
+165,Lauri Saaskilahti,Js 3c,
+166,Lauri Saaskilahti,,button
+166,Lucas Jumalon,,big blind
+167,Lucas Jumalon,Qs 5d,button
+167,Lauri Saaskilahti,Jd 3d,big blind
+168,Lauri Saaskilahti,As Ks,button
+168,Lucas Jumalon,6d 4d,
+169,Lauri Saaskilahti,As 7d,big blind
+169,Lucas Jumalon,,button
